@@ -7,9 +7,13 @@
     <test name="Regression Test">
 
         <classes>
+
             <class name="Test_packg.Login_test"/>
+
             <class name="Test_packg.Product_test"/>
+
             <class name="Test_packg.Checkout_test"/>
+
         </classes>
 
     </test>

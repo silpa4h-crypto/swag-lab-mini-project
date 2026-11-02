@@ -20,7 +20,7 @@ public class Base_class {
     public void browser_launch() {
         extent = Reporter_class.sam();
         driver = new ChromeDriver();
-       driver.manage().deleteAllCookies();
+      // driver.manage().deleteAllCookies();
         driver.get(url);
       
     }
